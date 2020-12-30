@@ -1,0 +1,7 @@
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\bin\Debug\Cryptography_LB3.exe.config
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\bin\Debug\Cryptography_LB3.exe
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\bin\Debug\Cryptography_LB3.pdb
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\obj\Debug\Cryptography_LB3.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\obj\Debug\Cryptography_LB3.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\obj\Debug\Cryptography_LB3.exe
+C:\Users\Artem\Desktop\Cryptography_LB3\Cryptography_LB3\obj\Debug\Cryptography_LB3.pdb
